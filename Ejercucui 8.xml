@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cantidad xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ejercicio 8.xsd" divisa="euro">20</cantidad>
+<!-- <cantidad xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ejercicio 8.xsd" divisa="dolar">18.32</cantidad> -->
+
+<!-- <cantidad xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ejercicio 8.xsd">20</cantidad> -->
+<!-- <cantidad xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ejercicio 8.xsd" divisa="dolar">abc</cantidad> -->
